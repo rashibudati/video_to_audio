@@ -1,5 +1,5 @@
 # video_to_audio
-A simple python codes which convert the video file to audio file.
+A simple python based code which converts a video file to audio file.
 
 Requirements:
 1. Python 3.7
